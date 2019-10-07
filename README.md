@@ -1,6 +1,6 @@
 # my-golang-api-template
 
-Base on (Echo)[https://github.com/labstack/echo]
+Base on [Echo](https://github.com/labstack/echo)
 
 ## Installtion
 
